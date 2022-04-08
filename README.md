@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+1 - create project with vue3 -- vue create nomeProjeto
+2 - na criação selecionar a opção de instalação manual
+3 - selecionar a opção router para ter roteamento
+4 - Instalar bootstrap -- npm i bootstrap
+5 - Instalar Vue-sweetalert2 -- npm i -S vue-sweetalert2

@@ -14,12 +14,6 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
@@ -28,3 +22,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 3 - selecionar a opção router para ter roteamento
 4 - Instalar bootstrap -- npm i bootstrap
 5 - Instalar Vue-sweetalert2 -- npm i -S vue-sweetalert2
+6 - Instalar axios - npm install axios
+7 - Instalar NPprogress - npm install --save nprogress

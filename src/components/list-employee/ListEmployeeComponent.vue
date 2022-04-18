@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1 class="row justify-content-center">List All Employee</h1>
+        <h1 class="row justify-content-center">List Employee</h1>
     </div>
 </template>
 

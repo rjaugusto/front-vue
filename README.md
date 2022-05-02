@@ -24,3 +24,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 5 - Instalar Vue-sweetalert2 -- npm i -S vue-sweetalert2
 6 - Instalar axios - npm install axios
 7 - Instalar NPprogress - npm install --save nprogress
+8 - Instalar Axios - npm install axios
